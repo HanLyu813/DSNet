@@ -16,6 +16,6 @@ If you are interested in our work, please do not hesitate to contact us at han.l
 
 
 We provide the prediction maps of our DSNet on four benchmarks: CHAMELEON, CAMO-Test, COD10K-Test, NC4K.<br />
-The prediction results of our DSNet are stored in[[baidu](https://pan.baidu.com/s/1mNOlCpobjF-rKoQERMLZtg),PIN:qm3h]. Please check.
+The prediction results of our DSNet are stored in [[baidu](https://pan.baidu.com/s/1mNOlCpobjF-rKoQERMLZtg),PIN:qm3h]. Please check.
 
 
