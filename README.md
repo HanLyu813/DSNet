@@ -1,5 +1,5 @@
 # DSNet
-Han Lyu, Meijun Sun, Haowei Ran, Yipu Liu, Yan Zhou, Zheng Wang<br />
+Han Lyu, Meijun Sun, Haowei Ran, Yipu Liu, Xinyu Yan, Zheng Wang<br />
 
 The experimental results and prediction maps are available now. The code is currently being organized and will be publicly available later. 
 
