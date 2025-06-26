@@ -1,9 +1,6 @@
 # DSNet
+**Distraction Suppression and Feature Modulation Network for Camouflaged Object Detection**,  ICME 2025
 Han Lyu, Meijun Sun, Haowei Ran, Yipu Liu, Xinyu Yan, Zheng Wang<br />
-
-The experimental results and prediction maps are available now. The code is currently being organized and will be publicly available later. 
-
-If you are interested in our work, please do not hesitate to contact us at han.lyu.cs@gmail.com via email.
 
 ---
 > **Abstract:** *Camouflaged Object Detection (COD) has historically been a significant challenge in the field of computer vision. Most existing methods for COD predominantly rely on complex designs to maximize the confidence of foreground regions within spatial features. In contrast, an alternative perspective is that suppressing background distractions to highlight the foreground might be a more effective approach. To address this issue, we propose Distraction Suppression Network, named DSNet. Specifically, Distracion Suppression Module (DSM) is implemented prior to the decoding stage to suppress the distracting information based on the Object-Related Information (ORI) extracted from Object Mining Module (OMM). Then, the Feature Modulation Decoder (FMD) modulates features with varing frequencies and obtains the prediction in a coarse-to-fine way. Experimental results show that our model outperforms existing state-of-the-art models on benchmark datasets by a large margin. Notably, our model maintains its performance even in more complex camouflage scenes.*
@@ -13,6 +10,19 @@ If you are interested in our work, please do not hesitate to contact us at han.l
 ---
 
 ## Usage
+### 0. Installation
+```
+conda create --name DSNet python=3.8.5
+conda activate DSNet
+conda install pytorch==1.12.1 torchvision==0.13.1 cudatoolkit=11.3 -c pytorch
+pip install opencv-python
+conda install tensorboard
+conda install tensorboardX
+pip install timm
+pip install matplotlib
+pip install scipy
+pip install einops
+```
 
 ### 1. Dataset Preparation
 Please organize the dataset folder into the following structure:
@@ -53,6 +63,11 @@ The prediction results of our DSNet are stored in [[baidu](https://pan.baidu.com
 ## Experimental Results
 <img width="1078" alt="image" src="https://github.com/user-attachments/assets/79fa8466-5fa7-4069-bb01-4d80b8439689" />
 
+## Contact
+If you are interested in our work, please do not hesitate to contact us at han.lyu.cs@gmail.com via email.
+
+## Acknowledgement
+The code is based on [FEDER](https://github.com/ChunmingHe/FEDER/) and [CamoFormer](https://github.com/HVision-NKU/CamoFormer). We thank the authors for their open-source code.
 
 
 
