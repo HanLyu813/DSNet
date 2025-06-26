@@ -7,7 +7,9 @@ If you are interested in our work, please do not hesitate to contact us at han.l
 
 
 ## Experimental Results
-![image](https://github.com/user-attachments/assets/bfbbf5c6-1af7-4df7-9246-b8e685b7f7a2)
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/79fa8466-5fa7-4069-bb01-4d80b8439689" />
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/79fa8466-5fa7-4069-bb01-4d80b8439689" />
+
 
 
 ## Prediction maps
