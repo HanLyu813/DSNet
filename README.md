@@ -1,5 +1,6 @@
 # DSNet
 **Distraction Suppression and Feature Modulation Network for Camouflaged Object Detection**,  ICME 2025
+
 Han Lyu, Meijun Sun, Haowei Ran, Yipu Liu, Xinyu Yan, Zheng Wang<br />
 
 ---
