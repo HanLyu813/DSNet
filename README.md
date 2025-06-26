@@ -8,7 +8,6 @@ If you are interested in our work, please do not hesitate to contact us at han.l
 
 ## Experimental Results
 <img width="1078" alt="image" src="https://github.com/user-attachments/assets/79fa8466-5fa7-4069-bb01-4d80b8439689" />
-<img width="1078" alt="image" src="https://github.com/user-attachments/assets/79fa8466-5fa7-4069-bb01-4d80b8439689" />
 
 
 
