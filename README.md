@@ -7,7 +7,8 @@ If you are interested in our work, please do not hesitate to contact us at han.l
 
 ---
 > **Abstract:** *Camouflaged Object Detection (COD) has historically been a significant challenge in the field of computer vision. Most existing methods for COD predominantly rely on complex designs to maximize the confidence of foreground regions within spatial features. In contrast, an alternative perspective is that suppressing background distractions to highlight the foreground might be a more effective approach. To address this issue, we propose Distraction Suppression Network, named DSNet. Specifically, Distracion Suppression Module (DSM) is implemented prior to the decoding stage to suppress the distracting information based on the Object-Related Information (ORI) extracted from Object Mining Module (OMM). Then, the Feature Modulation Decoder (FMD) modulates features with varing frequencies and obtains the prediction in a coarse-to-fine way. Experimental results show that our model outperforms existing state-of-the-art models on benchmark datasets by a large margin. Notably, our model maintains its performance even in more complex camouflage scenes.*
->
+>![DSNet3_01](https://github.com/user-attachments/assets/67c16bd8-8569-47a5-9247-b31cc07da2bd)
+
 
 ---
 
